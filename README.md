@@ -1,6 +1,11 @@
-# 🏦 MiniBank
+<br />
+<div align="center">
+<h1 align="center">🏦 MiniBank</h1>
 
-Minimalistic Banking Web Application (JS | HTML | CSS)
+  <p align="center">
+    Minimalistic Banking Web Application (JS | HTML | CSS)
+  </p>
+</div>
 
 ## Features
 - ✔️ Login, Logout
@@ -8,13 +13,13 @@ Minimalistic Banking Web Application (JS | HTML | CSS)
 - ✔️ Request Loan
 - ✔️ Close Account
 
-## Login
-User: js<br/>
+## Usage
+User: js <br/>
 Password: 1111
 
 ## About
 This project was developed in The Complete JavaScript Course 2021: From Zero to Expert! course
 https://www.udemy.com/course/the-complete-javascript-course/
 
-Created by **Jonas Schmedtmann**<br/>
+Created by **Jonas Schmedtmann** <br/>
 Developed by **Marko Vidiček**
