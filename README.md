@@ -17,13 +17,12 @@
 - ✔️ Transfer Money
 - ✔️ Request Loan
 - ✔️ Close Account
+
 ------------
 
+### Flowchart
 <p align="center">
-  <figure>
   <img src = "flowchart.png" width=700>
-    <figcaption>Flowchart</figcaption>
-    </figure>
 </p>
 
 ## Usage
