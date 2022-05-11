@@ -23,7 +23,7 @@ User: js <br/>
 Password: 1111
 
 ## About
-This project was developed in The Complete JavaScript Course 2021: From Zero to Expert! course
+This project was developed in The Complete JavaScript Course:
 https://www.udemy.com/course/the-complete-javascript-course/
 
 Created by **Jonas Schmedtmann** <br/>
