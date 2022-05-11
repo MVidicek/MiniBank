@@ -20,8 +20,9 @@
 
 ------------
 
-### Flowchart
+## Flowchart
 <p align="center">
+  FLOWCHART
   <img src = "flowchart.png" width=700>
 </p>
 
