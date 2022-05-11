@@ -18,8 +18,6 @@
 - ✔️ Request Loan
 - ✔️ Close Account
 
-[![Product Name Screen Shot][flowchart-screenshot]](https://github.com/MVidicek/MiniBank)
-
 <p align="center">
   <img src = "flowchart.png" width=700>
 </p>
