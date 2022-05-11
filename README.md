@@ -4,6 +4,11 @@
 
   <p align="center">
     Minimalistic Banking Web Application (JS | HTML | CSS)
+    <p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
+</p>
   </p>
 </div>
 
@@ -12,13 +17,6 @@
 - ✔️ Transfer Money
 - ✔️ Request Loan
 - ✔️ Close Account
-
-## Technologies 
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-</p>
 
 ## Usage
 User: js <br/>
