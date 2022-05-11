@@ -18,6 +18,8 @@
 - ✔️ Request Loan
 - ✔️ Close Account
 
+[![Product Name Screen Shot][flowchart-screenshot]](https://github.com/MVidicek/MiniBank)
+
 ## Usage
 User: js <br/>
 Password: 1111
@@ -28,3 +30,6 @@ https://www.udemy.com/course/the-complete-javascript-course/
 
 Created by **Jonas Schmedtmann** <br/>
 Developed by **Marko Vidiček**
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[flowchart-screenshot]: flowchart.png
