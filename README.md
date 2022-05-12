@@ -18,13 +18,22 @@
 - ✔️ Request Loan
 - ✔️ Close Account
 
+------------
+
+<p align="center">
+  <img src = "flowchart.png" width=700>
+</p>
+
 ## Usage
 User: js <br/>
 Password: 1111
 
-## About
+## Credits
 This project was developed in The Complete JavaScript Course:
 https://www.udemy.com/course/the-complete-javascript-course/
 
 Created by **Jonas Schmedtmann** <br/>
 Developed by **Marko Vidiček**
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[flowchart-screenshot]: flowchart.png
