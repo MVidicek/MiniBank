@@ -75,4 +75,16 @@ const displayMovements = function (movements) {
 
 displayMovements(account1.movements);
 
-////////////////////////////////////////////////////////////////////
+/////////////////////COMPUTE USERNAMES/////////////////////
+
+const createUsernames = function (acc) {
+  acc.forEach(function (acc) {
+    acc.username = acc.owner
+      .toLowerCase()
+      .split(' ')
+      .map(word => word[0])
+      .join('');
+  });
+};
+
+createUsernames(accounts);
