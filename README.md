@@ -25,8 +25,8 @@
 </p>
 
 ## Usage
-Users: mv, jd, stw, ss <br/>
-Passwords: 1111, 2222, 3333, 4444
+Users: mv, jd <br/>
+Passwords: 1111, 2222
 
 ## Credits
 This project was developed in The Complete JavaScript Course:
